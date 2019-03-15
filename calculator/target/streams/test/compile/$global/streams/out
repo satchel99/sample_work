@@ -1,0 +1,10 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/sonnymalick/Desktop/softdev/UB/CSE116/calculator/src/test/scala/TestSingleOperation.scala:28:16: reassignment to val[0m
+[0m[[0m[31merror[0m] [0m[0m    calculator = new Calculator()[0m
+[0m[[0m[31merror[0m] [0m[0m               ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/sonnymalick/Desktop/softdev/UB/CSE116/calculator/src/test/scala/TestSingleOperation.scala:39:16: reassignment to val[0m
+[0m[[0m[31merror[0m] [0m[0m    calculator = new Calculator()[0m
+[0m[[0m[31merror[0m] [0m[0m               ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/sonnymalick/Desktop/softdev/UB/CSE116/calculator/src/test/scala/TestSingleOperation.scala:50:16: reassignment to val[0m
+[0m[[0m[31merror[0m] [0m[0m    calculator = new Calculator()[0m
+[0m[[0m[31merror[0m] [0m[0m               ^[0m
+[0m[[0m[31merror[0m] [0m[0mthree errors found[0m

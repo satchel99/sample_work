@@ -1,0 +1,3 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mTestSample:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m- Sample testing of the calculator *** FAILED ***[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  TestSample.this.equalDoubles(actual, expected) was false 125.0 (TestSample.scala:31)[0m[0m
